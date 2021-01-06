@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Yuanyuan GE 2020 - 2021</copyright>
-    <lastBuildDate>Thu, 07 Jan 2021 00:07:13 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 00:35:19 +0800</lastBuildDate>
     
 	<atom:link href="https://yuanyuan229.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>https://yuanyuan229.github.io/contact/</link>
+      <pubDate>Thu, 07 Jan 2021 00:35:19 +0800</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/contact/</guid>
+      <description>大概也不太会有人看，如果有人碰巧看到了想跟我说话，那可能领英反而是最快的方式。哈哈
+Feel free to message me via social medias or email me at yyge@ucdavis.edu. But I may ignore them, a better way might be linkedin..</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://yuanyuan229.github.io/about/</link>
+      <pubDate>Thu, 07 Jan 2021 00:33:41 +0800</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/about/</guid>
+      <description>难道自我介绍什么的不是最讨厌了吗
+只是最近看了几个很好的博客，比如![这个]:(https://yihui.org)，很喜欢，觉得吧，还是得写一写。输出的过程才是在认真梳理的过程，输出的想法才有未来的可能。
+希望2021年能好好写东西，哪怕是树洞倒情绪呢，倒的艺术一点也挺好的嘛！</description>
+    </item>
     
     <item>
       <title>20180708</title>
