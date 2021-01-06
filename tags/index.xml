@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Yuanyuan Ge</title>
+    <link>https://yuanyuan229.github.io/tags/</link>
+    <description>Recent content in Tags on Yuanyuan Ge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Yuanyuan GE 2020 - 2021</copyright>
+    <lastBuildDate>Thu, 07 Jan 2021 00:07:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://yuanyuan229.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>old</title>
+      <link>https://yuanyuan229.github.io/tags/old/</link>
+      <pubDate>Thu, 07 Jan 2021 00:07:13 +0800</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/tags/old/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diverse</title>
+      <link>https://yuanyuan229.github.io/tags/diverse/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/tags/diverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>碎碎念</title>
+      <link>https://yuanyuan229.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://yuanyuan229.github.io/tags/tech/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

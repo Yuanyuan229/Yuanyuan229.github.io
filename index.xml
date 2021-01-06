@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuanyuan Ge</title>
+    <link>https://yuanyuan229.github.io/</link>
+    <description>Recent content on Yuanyuan Ge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Yuanyuan GE 2020 - 2021</copyright>
+    <lastBuildDate>Thu, 07 Jan 2021 00:07:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://yuanyuan229.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20180708</title>
+      <link>https://yuanyuan229.github.io/20180708/</link>
+      <pubDate>Thu, 07 Jan 2021 00:07:13 +0800</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/20180708/</guid>
+      <description>2018年写的，放一下</description>
+    </item>
+    
+    <item>
+      <title>写一个新年计划</title>
+      <link>https://yuanyuan229.github.io/%E5%86%99%E4%B8%80%E4%B8%AA%E6%96%B0%E5%B9%B4%E8%AE%A1%E5%88%92/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E5%86%99%E4%B8%80%E4%B8%AA%E6%96%B0%E5%B9%B4%E8%AE%A1%E5%88%92/</guid>
+      <description>2021加油鸭</description>
+    </item>
+    
+    <item>
+      <title>罪己书</title>
+      <link>https://yuanyuan229.github.io/%E7%BD%AA%E5%B7%B1%E4%B9%A6/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E7%BD%AA%E5%B7%B1%E4%B9%A6/</guid>
+      <description>GYY自省能力Max</description>
+    </item>
+    
+    <item>
+      <title>20201110的碎碎念</title>
+      <link>https://yuanyuan229.github.io/20201110%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/20201110%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</guid>
+      <description>2020.11心路历程</description>
+    </item>
+    
+    <item>
+      <title>2020-09 ~ 2020-10</title>
+      <link>https://yuanyuan229.github.io/2020-09-~-2020-10/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/2020-09-~-2020-10/</guid>
+      <description>2020-09 ~ 2020-10心情日记</description>
+    </item>
+    
+    <item>
+      <title>Build a Personal Website With Github Pages and Hugo</title>
+      <link>https://yuanyuan229.github.io/hugo_gitpages/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/hugo_gitpages/</guid>
+      <description>personal website with hugo</description>
+    </item>
+    
+  </channel>
+</rss>
