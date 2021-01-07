@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Yuanyuan GE 2020 - 2021</copyright>
-    <lastBuildDate>Thu, 07 Jan 2021 00:07:13 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yuanyuan229.github.io/tags/old/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,55 @@
     <item>
       <title>20180708</title>
       <link>https://yuanyuan229.github.io/20180708/</link>
-      <pubDate>Thu, 07 Jan 2021 00:07:13 +0800</pubDate>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yuanyuan229.github.io/20180708/</guid>
       <description>2018年写的，放一下</description>
+    </item>
+    
+    <item>
+      <title>头号玩家</title>
+      <link>https://yuanyuan229.github.io/%E5%A4%B4%E5%8F%B7%E7%8E%A9%E5%AE%B6/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E5%A4%B4%E5%8F%B7%E7%8E%A9%E5%AE%B6/</guid>
+      <description>2018年写的，放一下</description>
+    </item>
+    
+    <item>
+      <title>201804</title>
+      <link>https://yuanyuan229.github.io/201804/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/201804/</guid>
+      <description>2018年写的，放一下</description>
+    </item>
+    
+    <item>
+      <title>对自己诚实一点</title>
+      <link>https://yuanyuan229.github.io/%E5%AF%B9%E8%87%AA%E5%B7%B1%E8%AF%9A%E5%AE%9E%E4%B8%80%E7%82%B9/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E5%AF%B9%E8%87%AA%E5%B7%B1%E8%AF%9A%E5%AE%9E%E4%B8%80%E7%82%B9/</guid>
+      <description>2018年写的，放一下</description>
+    </item>
+    
+    <item>
+      <title>从法国回国</title>
+      <link>https://yuanyuan229.github.io/%E4%BB%8E%E6%B3%95%E5%9B%BD%E5%9B%9E%E5%9B%BD/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E4%BB%8E%E6%B3%95%E5%9B%BD%E5%9B%9E%E5%9B%BD/</guid>
+      <description>2018年写的，放一下</description>
+    </item>
+    
+    <item>
+      <title>2017的总结和2018的决心</title>
+      <link>https://yuanyuan229.github.io/2017%E7%9A%84%E6%80%BB%E7%BB%93%E5%92%8C2018%E7%9A%84%E5%86%B3%E5%BF%83/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/2017%E7%9A%84%E6%80%BB%E7%BB%93%E5%92%8C2018%E7%9A%84%E5%86%B3%E5%BF%83/</guid>
+      <description>是时候实现2018年的决心了</description>
     </item>
     
   </channel>

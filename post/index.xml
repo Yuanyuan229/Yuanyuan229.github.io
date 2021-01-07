@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Yuanyuan GE 2020 - 2021</copyright>
-    <lastBuildDate>Thu, 07 Jan 2021 00:07:13 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yuanyuan229.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>20180708</title>
-      <link>https://yuanyuan229.github.io/20180708/</link>
-      <pubDate>Thu, 07 Jan 2021 00:07:13 +0800</pubDate>
-      
-      <guid>https://yuanyuan229.github.io/20180708/</guid>
-      <description>2018年写的，放一下</description>
-    </item>
     
     <item>
       <title>写一个新年计划</title>
@@ -58,12 +49,174 @@
     </item>
     
     <item>
+      <title>心很平静的一瞬间</title>
+      <link>https://yuanyuan229.github.io/%E5%BF%83%E5%BE%88%E5%B9%B3%E9%9D%99%E7%9A%84%E4%B8%80%E7%9E%AC%E9%97%B4/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E5%BF%83%E5%BE%88%E5%B9%B3%E9%9D%99%E7%9A%84%E4%B8%80%E7%9E%AC%E9%97%B4/</guid>
+      <description>出世的时刻</description>
+    </item>
+    
+    <item>
+      <title>世界会如何演变</title>
+      <link>https://yuanyuan229.github.io/%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A6%82%E4%BD%95%E6%BC%94%E5%8F%98/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A6%82%E4%BD%95%E6%BC%94%E5%8F%98/</guid>
+      <description>疫情期间的一些乱想法</description>
+    </item>
+    
+    <item>
       <title>Build a Personal Website With Github Pages and Hugo</title>
       <link>https://yuanyuan229.github.io/hugo_gitpages/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yuanyuan229.github.io/hugo_gitpages/</guid>
       <description>personal website with hugo</description>
+    </item>
+    
+    <item>
+      <title>20岁后停止长大</title>
+      <link>https://yuanyuan229.github.io/20%E5%B2%81%E5%90%8E%E5%81%9C%E6%AD%A2%E9%95%BF%E5%A4%A7/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/20%E5%B2%81%E5%90%8E%E5%81%9C%E6%AD%A2%E9%95%BF%E5%A4%A7/</guid>
+      <description>初到美国</description>
+    </item>
+    
+    <item>
+      <title>2019-08 ～ 2019-09</title>
+      <link>https://yuanyuan229.github.io/2019-08-2019-09/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/2019-08-2019-09/</guid>
+      <description>初到美国</description>
+    </item>
+    
+    <item>
+      <title>很混杂的想法</title>
+      <link>https://yuanyuan229.github.io/%E5%BE%88%E6%B7%B7%E6%9D%82%E7%9A%84%E6%83%B3%E6%B3%95/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E5%BE%88%E6%B7%B7%E6%9D%82%E7%9A%84%E6%83%B3%E6%B3%95/</guid>
+      <description>2018年写的，当年啊</description>
+    </item>
+    
+    <item>
+      <title>那年的秋天</title>
+      <link>https://yuanyuan229.github.io/%E9%82%A3%E5%B9%B4%E7%9A%84%E7%A7%8B%E5%A4%A9/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E9%82%A3%E5%B9%B4%E7%9A%84%E7%A7%8B%E5%A4%A9/</guid>
+      <description>2018年写的，当年啊</description>
+    </item>
+    
+    <item>
+      <title>情绪们</title>
+      <link>https://yuanyuan229.github.io/%E6%83%85%E7%BB%AA%E4%BB%AC/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E6%83%85%E7%BB%AA%E4%BB%AC/</guid>
+      <description>2018年写的，当年啊</description>
+    </item>
+    
+    <item>
+      <title>爱好还在长久陪伴我呢</title>
+      <link>https://yuanyuan229.github.io/%E7%88%B1%E5%A5%BD%E8%BF%98%E5%9C%A8%E9%95%BF%E4%B9%85%E9%99%AA%E4%BC%B4%E6%88%91%E5%91%A2/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E7%88%B1%E5%A5%BD%E8%BF%98%E5%9C%A8%E9%95%BF%E4%B9%85%E9%99%AA%E4%BC%B4%E6%88%91%E5%91%A2/</guid>
+      <description>2018年写的，当年啊</description>
+    </item>
+    
+    <item>
+      <title>流水账</title>
+      <link>https://yuanyuan229.github.io/%E6%B5%81%E6%B0%B4%E8%B4%A6/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E6%B5%81%E6%B0%B4%E8%B4%A6/</guid>
+      <description>2018年写的，当年啊</description>
+    </item>
+    
+    <item>
+      <title>不会社交</title>
+      <link>https://yuanyuan229.github.io/%E4%B8%8D%E4%BC%9A%E7%A4%BE%E4%BA%A4/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E4%B8%8D%E4%BC%9A%E7%A4%BE%E4%BA%A4/</guid>
+      <description>2018年写的，当年啊</description>
+    </item>
+    
+    <item>
+      <title>选校时的宏愿</title>
+      <link>https://yuanyuan229.github.io/%E9%80%89%E6%A0%A1%E6%97%B6%E7%9A%84%E5%AE%8F%E6%84%BF/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E9%80%89%E6%A0%A1%E6%97%B6%E7%9A%84%E5%AE%8F%E6%84%BF/</guid>
+      <description>2018年写的，当年啊</description>
+    </item>
+    
+    <item>
+      <title>时隔很久还在复盘</title>
+      <link>https://yuanyuan229.github.io/%E6%97%B6%E9%9A%94%E5%BE%88%E4%B9%85%E8%BF%98%E5%9C%A8%E5%A4%8D%E7%9B%98/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E6%97%B6%E9%9A%94%E5%BE%88%E4%B9%85%E8%BF%98%E5%9C%A8%E5%A4%8D%E7%9B%98/</guid>
+      <description>成长中算是最明显的一个坎</description>
+    </item>
+    
+    <item>
+      <title>20180708</title>
+      <link>https://yuanyuan229.github.io/20180708/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/20180708/</guid>
+      <description>2018年写的，放一下</description>
+    </item>
+    
+    <item>
+      <title>头号玩家</title>
+      <link>https://yuanyuan229.github.io/%E5%A4%B4%E5%8F%B7%E7%8E%A9%E5%AE%B6/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E5%A4%B4%E5%8F%B7%E7%8E%A9%E5%AE%B6/</guid>
+      <description>2018年写的，放一下</description>
+    </item>
+    
+    <item>
+      <title>201804</title>
+      <link>https://yuanyuan229.github.io/201804/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/201804/</guid>
+      <description>2018年写的，放一下</description>
+    </item>
+    
+    <item>
+      <title>对自己诚实一点</title>
+      <link>https://yuanyuan229.github.io/%E5%AF%B9%E8%87%AA%E5%B7%B1%E8%AF%9A%E5%AE%9E%E4%B8%80%E7%82%B9/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E5%AF%B9%E8%87%AA%E5%B7%B1%E8%AF%9A%E5%AE%9E%E4%B8%80%E7%82%B9/</guid>
+      <description>2018年写的，放一下</description>
+    </item>
+    
+    <item>
+      <title>从法国回国</title>
+      <link>https://yuanyuan229.github.io/%E4%BB%8E%E6%B3%95%E5%9B%BD%E5%9B%9E%E5%9B%BD/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/%E4%BB%8E%E6%B3%95%E5%9B%BD%E5%9B%9E%E5%9B%BD/</guid>
+      <description>2018年写的，放一下</description>
+    </item>
+    
+    <item>
+      <title>2017的总结和2018的决心</title>
+      <link>https://yuanyuan229.github.io/2017%E7%9A%84%E6%80%BB%E7%BB%93%E5%92%8C2018%E7%9A%84%E5%86%B3%E5%BF%83/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/2017%E7%9A%84%E6%80%BB%E7%BB%93%E5%92%8C2018%E7%9A%84%E5%86%B3%E5%BF%83/</guid>
+      <description>是时候实现2018年的决心了</description>
     </item>
     
   </channel>
